@@ -1,31 +1,20 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# React + Vite
+# Hi, I'm Purvesh 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I am a Web Developer passionate about building modern and responsive websites using React, Bootstrap, HTML, and CSS.
 
-Currently, two official plugins are available:
+## 💻 Portfolio
+Check out my portfolio: [Visit My Portfolio](https://bakhadepurvesh.github.io/purvesh-portfolio/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Skills
+- **Frontend:** React.js, HTML5, CSS3, Bootstrap, JavaScript
+- **Version Control:** Git, GitHub
+- **Other Tools:** VS Code, Vite
 
-## React Compiler
+## 📂 Projects
+1. **Portfolio Website** - Personal website showcasing my projects and skills  
+2. **Other Projects** - Add project links here
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Purvesh Portfolio
-
-Welcome to my personal portfolio!  
-I am a Full Stack Java Developer passionate about building real-world applications.  
-This website showcases my projects, skills, and learning journey.  
-
-
->>>>>>> 8a148d9f329932b9e841dda54ad438c5f072d57e
-=======
-# purvesh-portfolio
-Web portfolio with React.js, Bootstrap, HTML &amp; CSS projects.
->>>>>>> ccde9d5cbba08e2707b188d9957d17e835ed6948
+## 📫 Contact Me
+- GitHub: [bakhadepurvesh](https://github.com/bakhadepurvesh)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/purvesh-bakhade-7bab63291/)
+- Email: purveshbakhade78@gmail.com
