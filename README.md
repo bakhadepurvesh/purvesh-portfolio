@@ -11,10 +11,10 @@ This website showcases my projects, skills, and learning journey.
 ## 📸 Portfolio Screenshots
 
 ### Home Page
-![Home Page](images/home.png)
+![Home Page](https://www.example.com/home.png)
 
 ### Project 1
-![Movie Ticket Booking](images/project1.png)
+![Movie Ticket Booking](https://www.example.com/project1.png)
 
 ### Project 2
-![Portfolio Project](images/project2.png)
+![Portfolio Project](https://www.example.com/project2.png)
