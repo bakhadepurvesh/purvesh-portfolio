@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -24,3 +25,7 @@ This website showcases my projects, skills, and learning journey.
 
 
 >>>>>>> 8a148d9f329932b9e841dda54ad438c5f072d57e
+=======
+# purvesh-portfolio
+Web portfolio with React.js, Bootstrap, HTML &amp; CSS projects.
+>>>>>>> ccde9d5cbba08e2707b188d9957d17e835ed6948
